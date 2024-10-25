@@ -15,7 +15,7 @@
 
 
 ### 2. Disable Current Models
-- Disable any pre-enabled models in the list to avoid conflicts.
+- Disable any pre-enabled models in the list to avoid conflicts.  
 ![Alt text](https://raw.githubusercontent.com/bilal77511/custom-models-in-cursor-IDE/refs/heads/main/pics/disable.png)
 ### 3. Add Your Custom Model
 - Click on Add Model to configure a new model.
