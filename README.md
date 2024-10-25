@@ -11,12 +11,16 @@
 
 ### 1. Open Cursor Settings
 - Go to the Settings section in Cursor IDE. (Refer to the settings screen in the accompanying image).
+![Alt text](https://raw.githubusercontent.com/bilal77511/custom-models-in-cursor-IDE/refs/heads/main/pics/settings.png)
+
 
 ### 2. Disable Current Models
 - Disable any pre-enabled models in the list to avoid conflicts.
-
+![Alt text](https://raw.githubusercontent.com/bilal77511/custom-models-in-cursor-IDE/refs/heads/main/pics/disable.png)
 ### 3. Add Your Custom Model
 - Click on Add Model to configure a new model.
+![Alt text](https://raw.githubusercontent.com/bilal77511/custom-models-in-cursor-IDE/refs/heads/main/pics/model.png)
+
 
 ### 4. Override OpenAI Base URL
 - Enable the Override OpenAI Base URL option.
@@ -25,6 +29,7 @@
   https://api.groq.com/openai/v1
   ```
 - Enter your API Key obtained from the model provider.
+![Alt text](https://raw.githubusercontent.com/bilal77511/custom-models-in-cursor-IDE/refs/heads/main/pics/override.png)
 
 ### 5. Verify and Activate
 - Click on Verify to test the connection. If all goes well, the model should now be activated and ready for use in Cursor IDE.
