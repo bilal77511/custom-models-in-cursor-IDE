@@ -1,7 +1,7 @@
 # Using Custom Models in Cursor IDE
 
 ## Prerequisites
-- **API Endpoint**: You'll need the endpoint (base URL) and an API key for the model you intend to use. For Groq, the endpoint is:
+- **API Endpoint**: You'll need the endpoint (base URL) and an API key for the model you intend to use.Any service compatible with OpenAI’s API can be integrated. For Groq, the endpoint is:
   ```
   https://api.groq.com/openai/v1
   ```
@@ -36,6 +36,7 @@
 
 ## Installing Cursor on Ubuntu
 To learn how to install Cursor IDE on Ubuntu, follow this installation guide for Cursor on Ubuntu.
-
+[Installing and Troubleshooting Cursor on Ubuntu GitHub](https://github.com/bilal77511/Cursor-on-Ubuntu)  
+[Installing and Troubleshooting Cursor on Ubuntu Medium](https://medium.com/@bilal77511/installing-and-troubleshooting-cursor-on-ubuntu-aa51d36cac66)
 ## Stay Connected
-If you found this guide helpful, feel free to follow me on LinkedIn for more tech insights and project updates.
+If you found this guide helpful, feel free to connect me on [LinkedIn](https://www.linkedin.com/in/muhammad-bilal-a75782280/)
